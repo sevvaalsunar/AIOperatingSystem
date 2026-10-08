@@ -1,0 +1,10 @@
+{
+  "description": "Experience a collaborative digital workspace where humans, AI agents, and physical systems seamlessly interact to observe, understand, and act on real-world data.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
